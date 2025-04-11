@@ -6,3 +6,5 @@ secrets/
 .env.local
 database-files/studybuddy_db.sql
 venv
+venv
+app/venv
